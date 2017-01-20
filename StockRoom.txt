@@ -1,0 +1,7 @@
+Lobby,Card Key,Watch,Handgun
+Hallway,Explosives,String,Matches
+Closet,Vault Combination Code
+Vault,Dust,Bag of money
+TrapDoor,Strange Crystal
+
+

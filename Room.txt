@@ -1,0 +1,5 @@
+0,Lobby,false,false
+1,Hallway,false,true
+2,Closet,false,true
+3,Vault,false,true
+4,TrapDoor,false,true

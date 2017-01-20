@@ -1,0 +1,222 @@
+Welcome to the "Amateur Bank Robber" Adventure Game!
+
+You burst into a small bank lobby. There are a few people around the room—a quiet day at the bank, as planned.
+ “Uh... Attention! This is a bank robbery! Everybody just, uh, remain calm! I just want my money and then I'm out of here.” 
+You read mixed emotions around the room of fear, confusion, and … bemusement?
+Well, go on! Go and rob that bank so you can tell all of your friends about it!
+
+Your goal is to successfully rob Main Street Bank and take away as much money as you can without getting caught.
+You have 100 moves to get the bag of money from the Vault and bring it to the Trap Door!
+
+Type 'help' to see the list of commands.
+
+You are at the Lobby of the Main Street Bank
+help
+List of commands:
+
+current room
+search room
+search people
+inventory
+go north/south
+take + <item>
+take + <item> + from + <person>
+take all
+drop + <item>
+combine + <item> + with + <item>
+threaten + <person>
+describe + <item>
+talk to + <person>
+quit
+current room
+You are at the Lobby
+
+search room
+Found the following item(s)
+
+Card Key
+Watch
+Handgun
+take card key
+You have picked up card key.
+1 weight have been added to your inventory!
+take watch
+You have picked up watch.
+2 weight have been added to your inventory!
+You have 95 move(s) left!
+take handgun
+You have picked up handgun.
+5 weight have been added to your inventory!
+You have 94 move(s) left!
+search people
+Found the following people
+Linh
+You have 93 move(s) left!
+talk to linh
+"-(Trembling) C-can I h-help you?"
+You have 92 move(s) left!
+threaten linh
+I have money. You can take it if you want!
+You have 91 move(s) left!
+take money from linh
+You have taken money
+You have 90 move(s) left!
+look at money
+This is not a valid command. Type help to get instruction
+You have 89 move(s) left!
+search room
+Found the following item(s)
+
+You have 88 move(s) left!
+drop watch
+You have dropped watch
+look at watch
+This is not a valid command. Type help to get instruction
+describe watch
+”Time is money.”
+take watch
+You have picked up watch.
+2 weight have been added to your inventory!
+You have 84 move(s) left!
+go north
+You are at the Hallway!
+You have 83 move(s) left!
+go north
+The door is locked.
+You are at the Hallway!
+You have 82 move(s) left!
+inventory
+Card Key, weight 1 
+Watch, weight 2 
+Handgun, weight 5 
+You have 81 move(s) left!
+take explosives
+You have picked up explosives.
+10 weight have been added to your inventory!
+You have 80 move(s) left!
+search room
+Found the following item(s)
+
+String
+Matches
+You have 79 move(s) left!
+take string
+Your inventory is too heavy. Drop some items!
+You have 78 move(s) left!
+drop card key
+You have dropped card key
+You have 77 move(s) left!
+take string
+Your inventory is too heavy. Drop some items!
+You have 76 move(s) left!
+drop handgun
+You have dropped handgun
+You have 75 move(s) left!
+take string
+You have picked up string.
+0 weight have been added to your inventory!
+You have 74 move(s) left!
+search people
+Found the following people
+Eli
+You have 73 move(s) left!
+threaten Eli
+You can't threaten eli without a gun!
+You have 72 move(s) left!
+inventory
+String, weight 0 
+Watch, weight 2 
+Explosives, weight 10 
+You have 71 move(s) left!
+combine string and explosives
+Incorrect command. Try format: combine <item 1> with <item 2>
+You have 70 move(s) left!
+combine string with explosives
+Yeahhhhh! Check your inventory!
+You have 69 move(s) left!
+inventory
+Watch, weight 2 
+Time Bomb, weight 10 
+You have 68 move(s) left!
+drop watch
+You have dropped watch
+take handgun
+You have picked up handgun.
+5 weight have been added to your inventory!
+threaten eli
+I have phone. You can take it if you want!
+describe phone
+phone is not in the room!
+take phone
+Your inventory is too heavy. Drop some items!
+inventory
+Time Bomb, weight 10 
+Handgun, weight 5 
+drop time bomb
+You have dropped time bomb
+take time bomb
+You have picked up time bomb.
+10 weight have been added to your inventory!
+go north
+You are at the Closet!
+look around
+This is not a valid command. Type help to get instruction
+search room
+Found the following item(s)
+
+Vault Combination Code
+drop time bomb
+You have dropped time bomb
+inventory
+Handgun, weight 5 
+take vault combination code
+You have picked up vault combination code.
+0 weight have been added to your inventory!
+go south
+You are at the Hallway!
+take phone from eli
+You have taken phone
+go north
+You are at the Closet!
+go north
+You are at the Vault!
+search room
+Found the following item(s)
+
+Dust
+Bag of money
+search people
+Found the following people
+PM
+go north
+The door is locked.
+You are at the Vault!
+threaten pm
+I dont have anything!
+take bag of money
+You have picked up bag of money.
+10 weight have been added to your inventory!
+take dust
+Your inventory is too heavy. Drop some items!
+inventory
+Vault Combination Code, weight 0 
+phone, weight 1 
+Handgun, weight 5 
+Bag of money, weight 10 
+drop phone
+You have dropped phone
+take dust
+Your inventory is too heavy. Drop some items!
+inventory
+Vault Combination Code, weight 0 
+Handgun, weight 5 
+Bag of money, weight 10 
+drop handgun
+You have dropped handgun
+take dust
+You have picked up dust.
+1 weight have been added to your inventory!
+go north
+You are at the TrapDoor!
+Yay! You have survived from the cops!!!!!! 
+You have taken 1002260 money within 63 moves!

@@ -1,0 +1,13 @@
+Strange Crystal,”Something shiny.”,1,null,100000
+Explosives,”Explosives go boom. These will come in handy.”,10,null,0
+Vault Combination Code,”A slip of paper with the vault code scribbled on: 37928401”,0,Vault,0
+Watch,”Time is money.”,2,null,100
+Card Key,”An identification card. This should help me get around.”,1,Hallway,0
+Handgun,”A handgun. Handle with care.”,5,null,1000
+Dust,”Debris from the explosion.”,1,TrapDoor,0
+String,”A long string. Looks flammable.”,0,null,0
+Matches,”A box of matches.”,1,null,0
+Time Bomb,"A bomb.",10,Closet,0
+Bag of money,"Holding items.",10,null,1000000
+money,"$50 bucks",1,null,50
+phone,"Might be helpful for escaping",1,null,10
