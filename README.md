@@ -1,4 +1,5 @@
- CSC 207 (Fall 2016) Homework 9: Text Adventure
+
+Text Adventure Game
 
 Member: Eli Salm and Linh Pham
 
